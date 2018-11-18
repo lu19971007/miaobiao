@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\miaobiao\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="E:\miaobiao\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_a5722cf7aba2845d874ddf57f1a3f547d8ae55fb.jar" />
+    </item>
+    <item
+        jar="E:\miaobiao\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\miaobiao\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_e8fec8772c805532652a671bda41b98f4b3939ed.jar" />
+    </item>
+    <item
+        jar="E:\miaobiao\app\build\intermediates\exploded-aar\miaobiao\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2ae9bd4ef876989054bc9cf306c318e5cb2cd27f">
+        <dex dex="E:\miaobiao\app\build\intermediates\pre-dexed\debug\miaobiao-library-unspecified_d70bf967e8c869e9113bf2c7bb74f21c99b93b8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\miaobiao\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_426ad47b0c180737bc1d40c89628bab5d90287f2.jar" />
+    </item>
+    <item
+        jar="E:\miaobiao\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="E:\miaobiao\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_f8e07d485a6a093743e64e4a77e5793d54f854d5.jar" />
+    </item>
+    <item
+        jar="E:\miaobiao\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\miaobiao\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_d19ef89689d9fa4a543d7f319f3c08062da07920.jar" />
+    </item>
+    <item
+        jar="E:\miaobiao\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="E:\miaobiao\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_71c1829553254c7a3ad1424fa1065c3e4590f298.jar" />
+    </item>
+
+</items>
